@@ -33,3 +33,7 @@
 
 ### # Merge upstream's master into our own
 ### git merge upstream/master
+
+### git add .
+### git commit -m "Update from upstream"
+### git push origin master
